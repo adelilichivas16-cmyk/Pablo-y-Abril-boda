@@ -1,6 +1,4 @@
-# Pablo-y-Abril-boda
-Boda Pablo y Abril
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -313,10 +311,17 @@ function checkVisibility(){
         const sectionTop=section.getBoundingClientRect().top;
         if(sectionTop<triggerBottom){section.classList.add('visible');}
     });
-}![momento1](https://github.com/user-attachments/assets/592c81fd-c478-4c2f-9c25-02ff99d324fb)[eternamente.mp3](https://github.com/user-attachments/files/22700924/eternamente.mp3)
-![ring](https://github.com/user-attachments/assets/021ced02-75e4-42e5-8a53-b5214273837b)
-![photo3](https://github.com/user-attachments/assets/6f54bb16-03dd-431e-bfaa-e2caff6c6067)
-![photo2](https://github.com/user-attachments/assets/73558a6f-ccb3-4034-944d-4a3fe83776f4)
-![photo1](https://github.com/user-attachments/assets/f64151d5-6b76-4f98-a952-c9148d514e71)
-![momentos3](https://github.com/user-attachments/assets/71983a33-af2f-4eb2-8ed5-14027066624c)
-![momentos2](https://github.com/user-attachments/assets/d303eb25-08e4-4105-a9e9-21c49fb1c0c8)
+}
+window.addEventListener('scroll',checkVisibility);
+</script>
+
+</body>
+</html>
+[eternamente.mp3](https://github.com/user-attachments/files/22700948/eternamente.mp3)
+![photo3 - copia](https://github.com/user-attachments/assets/f9ab1dba-cbe1-457d-b9d3-9cce0b50892b)
+![photo2 - copia](https://github.com/user-attachments/assets/d6f58b76-8124-4f8b-b68e-1a53a90d67d4)
+![photo1 - copia](https://github.com/user-attachments/assets/ea07e08f-5314-4660-a158-aa4e7ee273da)
+![momentos3 - copia](https://github.com/user-attachments/assets/3aa539ff-21e5-4f8d-8c1b-ffa149c22586)
+![momentos2 - copia](https://github.com/user-attachments/assets/febb7121-1ecd-4a74-b48f-35c225ae7bb0)
+![momento1 - copia](https://github.com/user-attachments/assets/ab2f1322-2e0d-42dd-8383-920de17385f9)
+![ring - copia](https://github.com/user-attachments/assets/7e02ddff-078b-45e7-b7df-6e8ab704f3fd)
